@@ -288,7 +288,7 @@ button {
 /** banner section **/
 
 .banner_main {
-     background: url(/images/big\ black\ banner.png);
+     background: url(images/big\ black\ banner.png);
      display: flex;
      align-content: center;
      align-items: center;
@@ -408,7 +408,7 @@ button {
 /** service section **/
 
 .service {
-     background: url(/images/white\ banner.png);
+     background: url(images/white\ banner.png);
      display: flex;
      padding-top: 90px;
      padding-bottom: 90px;
@@ -455,7 +455,7 @@ button {
 /** solutions section **/
 
 .solutions {
-     background: url(/images/black\ banner.png);
+     background: url(images/black\ banner.png);
      display: flex;
      padding-top: 90px;
      padding-bottom: 90px;
@@ -508,7 +508,7 @@ button {
      }
 }
 .work {
-     background: url(/images/big\ black\ banner.png);
+     background: url(images/big\ black\ banner.png);
      display: flex;
      align-content: center;
      align-items: center;
