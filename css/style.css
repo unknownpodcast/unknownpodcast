@@ -350,7 +350,7 @@ button {
 }
 
 .titlepage .donate:hover {
-     background-color: #ffffff;
+     background-color: #000000;
      color: #fff;
      transition: ease-in all 0.5s;
      
