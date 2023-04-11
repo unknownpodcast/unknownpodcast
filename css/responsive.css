@@ -60,7 +60,7 @@
 
 @media (min-width: 576px) and (max-width: 767px) {
     .text-bg {
-        padding-top: 73px;
+        padding-top: -26px;
     }
     .text-bg h1 {
         font-size: 57px;
@@ -134,7 +134,7 @@
         float: left;
     }
     .text-bg {
-        padding-top: 84px;
+        padding-top: -26px;
     }
     .text-bg a {
         margin-bottom: 2px;
