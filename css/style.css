@@ -403,12 +403,12 @@ button {
 /** service section **/
 
 .service {
-     background: url("../images/white banner.png");
+     background: white;
      display: flex;
-     padding-top: 90px;
-     padding-bottom: 90px;
-     padding-left: 90px;
-     margin-top: -49px;
+     padding-top: 26px;
+     padding-bottom: 84px;
+     padding-left: 328px;
+     margin-top: 25px;
 }
 
 .service .titlepage {
@@ -450,10 +450,10 @@ button {
 /** solutions section **/
 
 .solutions {
-     background: url("../images/black banner.png");
+     background: black;
      display: flex;
-     padding-top: 90px;
-     padding-bottom: 90px;
+     padding-top: 32px;
+     padding-bottom: 32px;
      margin-top: -19px;
 }
 
